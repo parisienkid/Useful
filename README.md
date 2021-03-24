@@ -8,3 +8,5 @@
 ---
 
 ## Js:
+  - ### Event loop - https://bit.ly/3lOlcbZ
+    > to understand how synchronous and asynchronous operations work in the browser
