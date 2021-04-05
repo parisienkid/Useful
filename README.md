@@ -12,5 +12,6 @@
     > to understand how synchronous and asynchronous operations work in the browser
   - ### Plaiceholde - https://plaiceholder.co
     > blur IMG (SVG CSS BASE 64)
+  - ### Hamer.js - https://hammerjs.github.io/
   - ### This, call, apply, bind
     - https://clck.ru/Lyg8x
