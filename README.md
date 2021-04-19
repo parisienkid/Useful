@@ -15,5 +15,6 @@
   - ### Hamer.js - https://hammerjs.github.io/
   - ### Mask - https://imask.js.org/guide.html
   - ### PlayerJS - https://playerjs.com/
+  - ### SVG, CSS encoder - https://yoksel.github.io/url-encoder/ru/
   - ### This, call, apply, bind
     - https://clck.ru/Lyg8x
