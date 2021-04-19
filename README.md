@@ -14,5 +14,6 @@
     > blur IMG (SVG CSS BASE 64)
   - ### Hamer.js - https://hammerjs.github.io/
   - ### Mask - https://imask.js.org/guide.html
+  - ### PlayerJS - https://playerjs.com/
   - ### This, call, apply, bind
     - https://clck.ru/Lyg8x
