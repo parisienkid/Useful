@@ -3,6 +3,7 @@
 ## Css:
   - ### Animate.css - https://animate.style/
     > assembly of ready-made animations
+  - ### CSS Accordion - https://habr.com/ru/post/174029/
 ---
 ## Html:
 ---
