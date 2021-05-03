@@ -14,6 +14,7 @@
   - ### Plaiceholde - https://plaiceholder.co
     > blur IMG (SVG CSS BASE 64)
   - ### Hamer.js - https://hammerjs.github.io/
+  - ### Drag&Drop - https://bit.ly/3tePW82
   - ### Mask - https://imask.js.org/guide.html
   - ### PlayerJS - https://playerjs.com/
   - ### SVG, CSS encoder - https://yoksel.github.io/url-encoder/ru/
